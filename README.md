@@ -1,4 +1,4 @@
-# ActivityNative.vue
+# ActivityNative.vue [stopped]
 > Aplicativo para gerenciamento de tarefas rápidas desenvolvimento em NativeScript-Vue
 
 
